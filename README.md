@@ -7,4 +7,10 @@
  
  
  
- athenaScript.sql : This file has a Script of Quering the Parquet file that was converted
+ athenaCreateTable.sql : This file has a Script of Quering the Parquet file that was converted
+ 
+ 
+ 
+ 
+ 
+ athenaScriptPartition.sql: This script will Partition the Parquet file based on Year and Month. 
